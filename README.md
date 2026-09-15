@@ -46,7 +46,7 @@ base for the step motor
 
 ## The gripper structure
 
-![ The gripper structure](gripper.jpg)
+![The gripper structure](gripper.jbg)
 
 
 
