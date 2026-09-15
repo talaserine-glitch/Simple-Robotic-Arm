@@ -42,6 +42,8 @@ base for the step motor
 ## Wirring
 
 
+![wirring](connecting.jpg)
+
 
 
 
