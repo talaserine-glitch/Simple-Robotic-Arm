@@ -39,6 +39,12 @@ base for the step motor
 
 ![Real circuit](realcircuit.jpg)
 
+## Wirring
+
+
+
+
+
 
 
 
