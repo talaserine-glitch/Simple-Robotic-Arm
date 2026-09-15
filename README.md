@@ -35,7 +35,7 @@ Gripper
 
 base for the step motor
 
-## Real circuit
+## Real Circuit
 
 ![Real circuit](realcircuit.jpg)
 
