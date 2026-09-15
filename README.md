@@ -44,7 +44,10 @@ base for the step motor
 
 ![wirring](connecting.jpg)
 
-## The gribber structure
+## The gripper structure
+
+![ The gripper structure](gripper.jpg)
+
 
 
 
