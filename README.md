@@ -25,15 +25,19 @@ Jumper Wires
 
 USB Cable
 
+Resistors ( use it as wires for the grippers)
+
 Mechanical Parts:
 
-lightweight cartoon or plastic material forming:
+lightweight cardboard or plastic material to form:
+
+base frame for step motor
+
+servo mounting bracket
 
 Mechanical arm structure
 
-Gripper
-
-base for the step motor
+Grippers
 
 ## Real Circuit
 
