@@ -7,7 +7,7 @@ Simple Robotic Arm is a beginner-friendly Arduino project designed to move a sma
 
 ## Components
 
-electronics parts:
+🔋electronics parts:
 
 Arduino Uno
 
@@ -27,7 +27,7 @@ USB Cable
 
 Resistors ( use it as wires for the grippers)
 
-Mechanical Parts:
+⚙️ Mechanical Parts:
 
 lightweight cardboard or plastic material to form:
 
