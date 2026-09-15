@@ -37,6 +37,10 @@ base for the step motor
 
 ## Real circuit
 
+[Real circuit](Realcircuit.jpg)
+
+
+
 
 
 
