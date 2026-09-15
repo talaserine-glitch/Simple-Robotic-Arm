@@ -44,6 +44,10 @@ base for the step motor
 
 ![wirring](connecting.jpg)
 
+## The gribber structure
+
+
+
 
 
 
