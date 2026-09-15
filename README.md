@@ -52,6 +52,69 @@ base for the step motor
 
 for 28BYJ-48 Stepper Motor and ULN2003 Stepper Motor Driver
 
+```cpp
+#include <Servo.h>
+#include <Stepper.h>
+
+// ===== STEPPER =====
+const int stepsPerRevolution = 2048;
+
+Stepper stepper(stepsPerRevolution, 2, 4, 3, 5);
+
+// ===== SERVO =====
+Servo myServo;
+const int servoPin = 9;
+
+// ===== JOYSTICK =====
+const int joyX = A0;
+const int joyY = A1;
+
+int servoAngle = 90;
+
+void setup() {
+  myServo.attach(servoPin);
+  myServo.write(servoAngle);
+
+  stepper.setSpeed(10);
+
+  Serial.begin(9600);
+}
+
+void loop() {
+
+  int xValue = analogRead(joyX);
+  int yValue = analogRead(joyY);
+
+  // =========================
+  // LEFT / RIGHT → STEPPER
+  // =========================
+
+  if (xValue < 400) {
+    stepper.step(-5);
+  }
+  else if (xValue > 600) {
+    stepper.step(5);
+  }
+
+  // =========================
+  // UP / DOWN → SERVO
+  // =========================
+
+  if (yValue < 400) {
+    servoAngle++;
+  }
+  else if (yValue > 600) {
+    servoAngle--;
+  }
+
+  // Keep servo between 0 and 180 degrees
+  servoAngle = constrain(servoAngle, 0, 180);
+
+  myServo.write(servoAngle);
+
+  delay(10);
+}
+
 
 
 
