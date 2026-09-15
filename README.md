@@ -48,6 +48,10 @@ base for the step motor
 
 ![The gripper structure](gripper.jbg)
 
+## arduino code 
+
+for 28BYJ-48 Stepper Motor and ULN2003 Stepper Motor Driver
+
 
 
 
