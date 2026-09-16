@@ -41,6 +41,7 @@ the robotic arm is controlled by a joystick.
 
 • Resistors ( use it as wires for the grippers)
 
+
 ⚙️ Mechanical Parts:
 
 •lightweight cardboard or plastic material to form:
