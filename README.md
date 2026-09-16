@@ -15,7 +15,7 @@ the robotic arm is controlled by a joystick.
 
 • The servo opens and closes the gripper to grab or release objects.
 
-
+![🦾 How it work](workmechanism.jpg)
 
 ## Components
 
