@@ -25,9 +25,9 @@ the robotic arm is controlled by a joystick.
 
 Arduino Uno
 
-28BYJ-48 Stepper Motor
+28BYJ-48 / Bipolar Stepper Motor
 
-ULN2003 Stepper Motor Driver
+ULN2003 Stepper / A4988 Stepper Motor Driver
 
 SG90 Servo Motor
 
