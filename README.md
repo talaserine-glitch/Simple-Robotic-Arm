@@ -134,7 +134,7 @@ void loop() {
   delay(10)
 }   
 ```
-int yValue = analogRead(joyY);
+
 
 
 ## Circuit Simulation
