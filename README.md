@@ -55,7 +55,7 @@ Grippers
 
 ## Grippers Structure
 
-
+![Grippers Strucure](gripperstructure.jpg)
 
 ## Real Circuit
 
