@@ -135,6 +135,17 @@ void loop() {
 }
 
 
+```cpp
+int yValue = analogRead(joyY);
+```
+
+## Circuit Simulation
+
+![Circuit Simulation](circuitsimulation.png)
+
+
+
+
 
 
 
