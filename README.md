@@ -141,9 +141,15 @@ int yValue = analogRead(joyY);
 
 ## Circuit Simulation
 
+for the Bipolar Stepper Motor
+
 ![Circuit Simulation](circuitsimulation.png)
 
 
+## Arduino Code
+
+
+for Bipolar Stepper Motor and A4988 Stepper Motor Driver
 
 
 
