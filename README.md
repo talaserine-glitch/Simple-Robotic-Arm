@@ -23,35 +23,35 @@ the robotic arm is controlled by a joystick.
 
 🔋electronics parts:
 
-Arduino Uno
+• Arduino Uno
 
-28BYJ-48 / Bipolar Stepper Motor
+• 28BYJ-48 / Bipolar Stepper Motor
 
-ULN2003 Stepper / A4988 Stepper Motor Driver
+• ULN2003 Stepper / A4988 Stepper Motor Driver
 
-SG90 Servo Motor
+• SG90 Servo Motor
 
-Analog Joystick
+• Analog Joystick
 
-Breadboard
+• Breadboard
 
-Jumper Wires
+• Jumper Wires
 
-USB Cable
+• USB Cable
 
-Resistors ( use it as wires for the grippers)
+• Resistors ( use it as wires for the grippers)
 
 ⚙️ Mechanical Parts:
 
-lightweight cardboard or plastic material to form:
+•lightweight cardboard or plastic material to form:
 
-base frame for step motor
+• base frame for step motor
 
-servo mounting bracket
+• servo mounting bracket
 
-Mechanical arm structure
+• Mechanical arm structure
 
-Grippers
+• Grippers
 
 ## Grippers Structure
 
