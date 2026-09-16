@@ -7,7 +7,7 @@ Simple Robotic Arm is a beginner-friendly Arduino project designed to move a sma
 
 ## 🦾 How it work 
 
-![ 🦾 How it work](workmechanism.ino)
+![How it work](workmechanism.jpg)
 
 the robotic arm is controlled by a joystick.
 
