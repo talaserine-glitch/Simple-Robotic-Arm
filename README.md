@@ -66,9 +66,6 @@ Grippers
 
 ![wirring](connecting.jpg)
 
-## The gripper structure
-
-![The gripper structure](gripper.jbg)
 
 ## arduino code 
 
