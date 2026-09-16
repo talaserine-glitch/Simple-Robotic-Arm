@@ -53,6 +53,10 @@ Mechanical arm structure
 
 Grippers
 
+## Grippers Structure
+
+
+
 ## Real Circuit
 
 ![Real circuit](realcircuit.jpg)
