@@ -5,6 +5,18 @@ Simple Robotic Arm is a beginner-friendly Arduino project designed to move a sma
 
 ![ Robotic arm picture](roboticarm.jpg)
 
+## 🦾 How it work 
+
+the robotic arm is controlled by a joystick.
+
+• Left / Right: moves the arm using the stepper motor.
+
+• Up / Down: controls the servo.
+
+• The servo opens and closes the gripper to grab or release objects.
+
+
+
 ## Components
 
 🔋electronics parts:
